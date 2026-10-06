@@ -1,0 +1,1 @@
+<footer class="dn-footer"><div class="dn-wrap">&copy; <?php echo esc_html(date('Y')); ?> <?php bloginfo('name'); ?>. Affiliate links may earn us a commission.</div></footer><?php wp_footer(); ?></body></html>
